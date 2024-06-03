@@ -1,0 +1,5 @@
+title: jekyll test
+#logo: relative path to image
+description: description goes here
+show_download: true
+theme: jekyll-theme-minimal
